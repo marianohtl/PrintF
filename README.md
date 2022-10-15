@@ -1,5 +1,11 @@
-# PrintF 42 São Paulo
-Este projeto tem como objetivo codificar partes da função prinf, conforme o escopo abaixo.
+### ft_printF | 42 São Paulo
+Because ft_putnbr() and ft_putstr() aren’t enough
+
+<br>
+![](https://raw.githubusercontent.com/marianohtl/PrintF/main/img/printf.png)
+<br>
+
+
 
 # SUBJECT
 [...]
