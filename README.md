@@ -70,12 +70,3 @@ If you plan to complete the bonus part, think about the implementation of your e
 <br>
 
 The bonus part will only be assessed if the mandatory part is PERFECT. Perfect means the mandatory part has been integrally done and works without malfunctioning. If you have not passed ALL the mandatory requirements, your bonus part will not be evaluated at all. *
-
-# Submission and peer-evaluation
-
-Turn in your assignment in your Git repository as usual. Only the work inside your repos-
-itory will be evaluated during the defense. Don’t hesitate to double check the names of
-your files to ensure they are correct.
-Once this assignment passed, you will be allowed to add your ft_printf() to your
-libft so you can use it in your school C projects.
-
